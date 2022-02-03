@@ -1,7 +1,7 @@
 ### Hello World, My name is Alvaro Garijo 👋
 #### I am  Web Junior Full-Stack Developer 💻  and Personal Trainer ⚡
 
-#### Now iam doing...![image](https://user-images.githubusercontent.com/90695425/152319882-dc7779ea-1695-44ab-b617-3cfad07c1f3c.png)
+#### Now iam doing...![image] (https://cdn-icons.flaticon.com/png/512/4461/premium/4461825.png?token=exp=1643883037~hmac=fdc071d19c532af0e6361d01ef0ec10d)
 
 - Learn knowledges bout the MERN Technology Stack and new tecnologies. 
 - Doing the personal proyect Full-Stack 👉🏻 [fenixFit].
@@ -11,25 +11,25 @@ ___
 #### My Knowledges: its always loading because everytime learn something new
 
  
-HTML 5 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+< HTML 5 > ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
 
-CSS 3 >  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
+< CSS 3 >  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) 
 
-Sass Compilator > ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass) 
+< Sass Compilator > ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass) 
 
-Bootstrap 5 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
+< Bootstrap 5 > ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) 
 
-JavaScript ES6 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
+< JavaScript ES6 > ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 
-React (Router) > ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
+< React (Router) > ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) 
 
-MySQL my Admin > ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
+< MySQL my Admin > ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) 
 
-PHP > ![PHP](https://img.shields.io/badge/-php-E34A86?style=flat-square&logo=php) 
+< PHP > ![PHP](https://img.shields.io/badge/-php-E34A86?style=flat-square&logo=php) 
 
-Mongo DB > ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
+< Mongo DB > ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) 
 
-Node.js > ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
+< Node.js > ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ___
 
 #### Contact to me: if you need me...
