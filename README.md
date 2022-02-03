@@ -13,14 +13,23 @@ ___
 
  
 HTML 5 >> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+
 CSS 3 >>  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) |
+
 Sass Compilator >> ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass) |
+
 Bootstrap 5 >> ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) |
+
 JavaScript ES6 >> ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) |
+
 React (Router) >> ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) |
+
 MySQL my Admin >> ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
+
 PHP >> ![PHP](https://img.shields.io/badge/-php-E34A86?style=flat-square&logo=php) |
+
 Mongo DB >> ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) |
+
 Node.js >> ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ___
 
