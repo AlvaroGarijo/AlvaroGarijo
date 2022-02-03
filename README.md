@@ -11,18 +11,17 @@ ___
 
 #### My Knowledges: its always loading because everytime learn something new
 
- HTML5 | CSS3 | Sass | Bootstrap | JavaScript  | React | MongoDB | MySQL | PHP | Node.JS 
  
- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) |
- ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass) |
- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) |
- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) |
- ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) |
- ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
- ![PHP](https://img.shields.io/badge/-php-E34A86?style=flat-square&logo=php) |
- ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) |
- ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
+HTML 5 >> ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) |
+CSS 3 >>  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) |
+Sass Compilator >> ![Sass](https://img.shields.io/badge/-Sass-black?style=flat-square&logo=Sass) |
+Bootstrap 5 >> ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap) |
+JavaScript ES6 >> ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) |
+React (Router) >> ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react) |
+MySQL my Admin >> ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql) |
+PHP >> ![PHP](https://img.shields.io/badge/-php-E34A86?style=flat-square&logo=php) |
+Mongo DB >> ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb) |
+Node.js >> ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js) 
 ___
 
 #### Contact to me: if you need me...
@@ -34,5 +33,5 @@ ___
 [![Gmail Badge](https://img.shields.io/badge/-garijoentrenamientoysalud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garijoentrenamientoysalud@gmail.com)](mailto:garijoentrenamientoysalud@gmail.com)
 ___
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AlvaroGarijo&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AlvaroGarijo&count_private=true&show_icons=true&include_all_commits=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlvaroGarijo&hide=TeX&layout=compact)
