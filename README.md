@@ -11,12 +11,4 @@ ___
 
 #### My Knowledges: its always loading because everytime learn something new
 
-- HTML5.   
-- CSS3
-- Sass
-- JavaScript
-- React
-- Mongo DB
-- MySql
-- PHP
-- Node.js
+ HTML5 | CSS3 | SASS | JavaScript  | React | MongoDB | MySQL | PHP | Node.JS 
