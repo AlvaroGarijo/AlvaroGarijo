@@ -12,3 +12,5 @@ ___
 #### My Knowledges: its always loading because everytime learn something new
 
  HTML5 | CSS3 | SASS | JavaScript  | React | MongoDB | MySQL | PHP | Node.JS 
+ 
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
