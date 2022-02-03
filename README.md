@@ -25,10 +25,12 @@ ___
  ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ___
 
-#### Contact to me
+#### Contact to me: if you need me...
 
-[![Linkedin Badge](https://img.shields.io/badge/-ALvaroGarijo-=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-garijo-s%C3%A1nchez-003416221/)](https://www.linkedin.com/in/alvaro-garijo-s%C3%A1nchez-003416221/)
+[![Linkedin Badge](https://img.shields.io/badge/-Alvaro Garijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-garijo-s%C3%A1nchez-003416221/)](https://www.linkedin.com/in/alvaro-garijo-s%C3%A1nchez-003416221/)
+
 [![Instagram Badge](https://img.shields.io/badge/-AlvaroGarijo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/alvarogarijo_fitness/?hl=es)](https://www.instagram.com/alvarogarijo_fitness/?hl=es)
+
 [![Gmail Badge](https://img.shields.io/badge/-garijoentrenamientoysalud@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:garijoentrenamientoysalud@gmail.com)](mailto:garijoentrenamientoysalud@gmail.com)
 ___
 
