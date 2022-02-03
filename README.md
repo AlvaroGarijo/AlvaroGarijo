@@ -1,7 +1,7 @@
 ### Hello World, My name is Alvaro Garijo 👋
 #### I am  Web Junior Full-Stack Developer 💻  and Personal Trainer ⚡
 
-#### Now iam doing...![image] (https://cdn-icons.flaticon.com/png/512/4461/premium/4461825.png?token=exp=1643883037~hmac=fdc071d19c532af0e6361d01ef0ec10d)
+#### Now iam doing...![image](https://cdn-icons-png.flaticon.com/512/3208/3208743.png)
 
 - Learn knowledges bout the MERN Technology Stack and new tecnologies. 
 - Doing the personal proyect Full-Stack 👉🏻 [fenixFit].
