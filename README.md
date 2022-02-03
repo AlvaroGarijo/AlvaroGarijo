@@ -27,7 +27,7 @@ ___
 
 #### Contact to me: if you need me...
 
-[![Linkedin Badge](https://img.shields.io/badge/-Alvaro Garijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-garijo-s%C3%A1nchez-003416221/)](https://www.linkedin.com/in/alvaro-garijo-s%C3%A1nchez-003416221/)
+[![Linkedin Badge](https://img.shields.io/badge/-AlvaroGarijo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-garijo-s%C3%A1nchez-003416221/)](https://www.linkedin.com/in/alvaro-garijo-s%C3%A1nchez-003416221/)
 
 [![Instagram Badge](https://img.shields.io/badge/-AlvaroGarijo-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/alvarogarijo_fitness/?hl=es)](https://www.instagram.com/alvarogarijo_fitness/?hl=es)
 
